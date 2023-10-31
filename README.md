@@ -1,4 +1,4 @@
-# untitled_mack_project
+# untitled_mack_project_backend
 
 # Goal of Project
 1. Experimenting with React, Django, and AWS 
